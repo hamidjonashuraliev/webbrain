@@ -1,21 +1,19 @@
 body {
-    background-color:rgb(217, 211, 211)
+    background-color: rgba(206, 230, 128, 0.455);
 }
-.class {
+.main {
     color: rgb(18, 223, 14);
     background-color: bisque;
-text-align: center;
-text-decoration:dashed;
-text-transform: uppercase;
-font-family: sans-serif;
-
-
-
-
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: uppercase;
+    font-family: sans-serif;
 }
-.class1 {
-color: blue;
-background-color: khaki;
-text-transform: uppercase;
-text-transform: uppercase;
+.test {
+    background-color: aquamarine;
+    padding: 10px 30px 20px 10px;
+}
+.test1 {
+    background-color: yellowgreen;
+    margin: 10px 40px 20px 30px;
 }
